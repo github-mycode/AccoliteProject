@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\My Code\\AccoliteBank\\AccoliteProject\\AccoliteBank\\AccoliteBank.csproj": {}
+  },
+  "projects": {
+    "C:\\My Code\\AccoliteBank\\AccoliteProject\\AccoliteBank\\AccoliteBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Code\\AccoliteBank\\AccoliteProject\\AccoliteBank\\AccoliteBank.csproj",
+        "projectName": "AccoliteBank",
+        "projectPath": "C:\\My Code\\AccoliteBank\\AccoliteProject\\AccoliteBank\\AccoliteBank.csproj",
+        "packagesPath": "C:\\Users\\priya\\.nuget\\packages\\",
+        "outputPath": "C:\\My Code\\AccoliteBank\\AccoliteProject\\AccoliteBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\priya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
